@@ -1,0 +1,50 @@
+@import url("1.css");
+@font-face {
+  font-family: AvenirLTStd-LightOblique;
+  src: url(../font/391DDB_1_0.eot);
+  src: url(../font/391DDB_1_0.eot) format("embedded-opentype"),
+    url(../font/391DDB_1_0.woff2) format("woff2"),
+    url(../font/391DDB_1_0.woff) format("woff"),
+    url(../font/391DDB_1_0.ttf) format("truetype");
+}
+@font-face {
+  font-family: AvenirLTStd-Light;
+  src: url(../font/391DDB_2_0.eot);
+  src: url(../font/391DDB_2_0.eot) format("embedded-opentype"),
+    url(../font/391DDB_2_0.woff2) format("woff2"),
+    url(../font/391DDB_2_0.woff) format("woff"),
+    url(../font/391DDB_2_0.ttf) format("truetype");
+}
+@font-face {
+  font-family: AvenirLTStd-Book;
+  src: url(../font/391DDB_3_0.eot);
+  src: url(../font/391DDB_3_0.eot) format("embedded-opentype"),
+    url(../font/391DDB_3_0.woff2) format("woff2"),
+    url(../font/391DDB_3_0.woff) format("woff"),
+    url(../font/391DDB_3_0.ttf) format("truetype");
+}
+@font-face {
+  font-family: AvenirLTStd-Heavy;
+  src: url(../font/391DDB_4_0.eot);
+  src: url(../font/391DDB_4_0.eot) format("embedded-opentype"),
+    url(../font/391DDB_4_0.woff2) format("woff2"),
+    url(../font/391DDB_4_0.woff) format("woff"),
+    url(../font/391DDB_4_0.ttf) format("truetype");
+}
+@font-face {
+  font-family: AvenirLTStd-Black;
+  src: url(../font/391DDB_5_0.eot);
+  src: url(../font/391DDB_5_0.eot) format("embedded-opentype"),
+    url(../font/391DDB_5_0.woff2) format("woff2"),
+    url(../font/391DDB_5_0.woff) format("woff"),
+    url(../font/391DDB_5_0.ttf) format("truetype");
+}
+@font-face {
+  font-family: Clarendon BT W05;
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://5209470.fs1.hubspotusercontent-na1.net/hubfs/5209470/landing_page_assets/webfonts/monotype-clarendon/e9acdb30-e438-494e-aeed-491c751f5814.woff2)
+      format("woff2"),
+    url(fhttps://5209470.fs1.hubspotusercontent-na1.net/hubfs/5209470/landing_page_assets/webfonts/monotype-clarendon/f5156d28-fb5e-4524-93fb-2f8b892bfba1.woff)
+      format("woff");
+}

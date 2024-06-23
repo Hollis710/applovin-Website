@@ -1,0 +1,58 @@
+@import url("1.css");
+@font-face {
+  font-family: Avenir W05;
+  font-style: normal;
+  font-weight: 300;
+  src: url(../font/f5354f80-92cf-4f4b-b36f-8c045d5c8426.woff2) format("woff2"),
+    url(https://try.applovin.com/hs-fs/hub/5209470/hub_generated/template_assets/50549304598/1709662237716/landing_pages/Fonts/8677474f-cbca-4e71-a08e-1f86baaba210.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Avenir W05;
+  font-style: oblique;
+  font-weight: 300;
+  src: url(../font/fd879dcd-b7a1-4173-86d9-bf9c7dda8393.woff2) format("woff2"),
+    url(https://try.applovin.com/hs-fs/hub/5209470/hub_generated/template_assets/50549304598/1709662237716/landing_pages/Fonts/e8a7c6b2-29ca-45c2-8928-c5a361266238.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Avenir W05;
+  font-style: normal;
+  font-weight: 700;
+  src: url(../font/0d51f252-d47b-421f-8ffe-eb417dce1b53.woff2) format("woff2"),
+    url(https://try.applovin.com/hs-fs/hub/5209470/hub_generated/template_assets/50549304598/1709662237716/landing_pages/Fonts/b34d406c-b12e-4b82-892e-1bfab6517cce.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Avenir W05;
+  font-style: oblique;
+  font-weight: 700;
+  src: url(../font/8e5b26ea-572e-4c54-aa76-ead98ccb9b18.woff2) format("woff2"),
+    url(https://try.applovin.com/hs-fs/hub/5209470/hub_generated/template_assets/50549304598/1709662237716/landing_pages/Fonts/0931e747-e24f-4520-8aad-98c037b3c141.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Avenir W05;
+  font-style: normal;
+  font-weight: 750;
+  src: url(../font/ef5440cb-9db6-4c3a-b4ab-8135481379cd.woff2) format("woff2"),
+    url(https://try.applovin.com/hs-fs/hub/5209470/hub_generated/template_assets/50549304598/1709662237716/landing_pages/Fonts/6497b0cb-750c-4e79-b974-2d66cef3ac7d.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Avenir W05;
+  font-style: oblique;
+  font-weight: 750;
+  src: url(../font/ad10d500-d9ae-48f0-bb4f-c0d5ee550992.woff2) format("woff2"),
+    url(https://try.applovin.com/hs-fs/hub/5209470/hub_generated/template_assets/50549304598/1709662237716/landing_pages/Fonts/2eae5852-f020-4ba1-8a33-6cc8a6a87153.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Clarendon BT W05;
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://5209470.fs1.hubspotusercontent-na1.net/hubfs/5209470/landing_page_assets/webfonts/monotype-clarendon/e9acdb30-e438-494e-aeed-491c751f5814.woff2)
+      format("woff2"),
+    url(fhttps://5209470.fs1.hubspotusercontent-na1.net/hubfs/5209470/landing_page_assets/webfonts/monotype-clarendon/f5156d28-fb5e-4524-93fb-2f8b892bfba1.woff)
+      format("woff");
+}

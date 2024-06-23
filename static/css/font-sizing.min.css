@@ -1,0 +1,105 @@
+.scale-60-50-32 {
+  font-size: 60px !important;
+  line-height: 1.15em !important;
+}
+.scale-50-40-28 {
+  font-size: 50px !important;
+  line-height: 1.15em !important;
+}
+.scale-36-30-24 {
+  font-size: 36px !important;
+  line-height: 1.25em !important;
+}
+.scale-32-24-21 {
+  font-size: 32px !important;
+  line-height: 1.25em !important;
+}
+.scale-28-24-21 {
+  font-size: 28px !important;
+  line-height: 1.25em !important;
+}
+.scale-24-21-18,
+.scale-24-21-21 {
+  font-size: 24px !important;
+  line-height: 1.35em !important;
+}
+.scale-21-21-18 {
+  font-size: 21px !important;
+  line-height: 1.5em !important;
+}
+.scale-18-14-14,
+.scale-18-18-16 {
+  font-size: 18px !important;
+  line-height: 1.5em !important;
+}
+.fixed-16 {
+  font-size: 16px !important;
+}
+.fixed-14,
+.fixed-16 {
+  line-height: 1.5em !important;
+}
+.fixed-14 {
+  font-size: 14px !important;
+}
+.fixed-12 {
+  font-size: 12px !important;
+  line-height: 1.5em !important;
+}
+@media screen and (max-width: 1024px) {
+  .scale-60-50-32 {
+    font-size: 50px !important;
+  }
+  .scale-50-40-28 {
+    font-size: 40px !important;
+  }
+  .scale-36-30-24 {
+    font-size: 30px !important;
+  }
+  .scale-32-24-21 {
+    line-height: 1.35em !important;
+  }
+  .scale-28-24-21,
+  .scale-32-24-21 {
+    font-size: 24px !important;
+  }
+  .scale-24-21-18,
+  .scale-24-21-21 {
+    font-size: 21px !important;
+  }
+}
+@media screen and (max-width: 640px) {
+  .scale-60-50-32 {
+    font-size: 32px !important;
+    line-height: 1.25em !important;
+  }
+  .scale-50-40-28 {
+    font-size: 28px !important;
+    line-height: 1.25em !important;
+  }
+  .scale-36-30-24 {
+    font-size: 24px !important;
+    line-height: 1.35em !important;
+  }
+  .scale-28-24-21,
+  .scale-32-24-21 {
+    font-size: 21px !important;
+  }
+  .scale-24-21-18 {
+    font-size: 18px !important;
+    line-height: 1.4em !important;
+  }
+  .scale-24-21-21 {
+    font-size: 21px !important;
+    line-height: 1.4em !important;
+  }
+  .scale-21-21-18 {
+    font-size: 18px !important;
+  }
+  .scale-18-18-16 {
+    font-size: 16px !important;
+  }
+  .scale-18-14-14 {
+    font-size: 14px !important;
+  }
+}
